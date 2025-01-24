@@ -1,2 +1,2 @@
 # E-Learning-Management-System
-A PHP-based project that uses Agora.io, a Real-Time Engagement Platform for live class.
+A PHP-based project that enables users to purchase and access courses effortlessly. It also allows administrators to manage and modify all course-related content seamlessly..
